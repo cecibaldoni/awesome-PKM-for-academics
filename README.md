@@ -11,7 +11,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list format.
 
 ## Why This List?
 
-While many PKM resources exist, few speak directly to the needs of: - PhD students juggling reading, writing, and experiments - Researchers building long-term knowledge - Academics managing teaching, research, and grant writing
+While many PKM resources exist, few speak directly to the needs of: 
+- PhD students juggling reading, writing, and experiments
+- Researchers building long-term knowledge
+- Academics managing teaching, research, and grant writing
 
 This collection focuses on **open-source**, **reproducible**, and **academic-friendly** PKM systems.
 
