@@ -56,7 +56,7 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 -   [Obsidian for Academia (Demo)](https://github.com/rlaker/Obsidian-for-Academia): demo vault showing how to use Obsidian for course planning, paper writing, and reading tracking.
 -   [Obsidian History Vault](https://github.com/erazlogo/obsidian-history-vault): vault for historians working with archival data, sources, and timelines.
 -   [Student Starter Vault (Obsidian)](https://github.com/shawngraham/obsidian-student-starter-vault): vault for student research and note-taking tasks.
--   {PKM Workshop for PhD Students](https://github.com/cecibaldoni/PKM-workshop): slides and beginner-friendly vault for Obsidian and folder for Logseq; target audience: PhD students.
+-   [PKM Workshop for PhD Students](https://github.com/cecibaldoni/PKM-workshop): slides and beginner-friendly vault for Obsidian and folder for Logseq; target audience: PhD students.
 
 ### More Awesome Lists
 
