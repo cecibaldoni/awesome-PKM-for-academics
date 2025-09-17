@@ -48,7 +48,7 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 
 -   [Boost Your Learning With AI & PKM – Buzzsprout](https://www.buzzsprout.com/2031091/episodes/14761760-e41-andrew-altshuler-boost-your-learning-with-ai-and-pkm): a conversation on how AI tools can enhance PKM and academic learning strategies.
 -   [PKM Modules for Higher Ed – Teaching in Higher Ed](https://teachinginhighered.com/2014/05/13/pkmmodules/): free modules and audio on integrating PKM practices into academic life and curriculum.
--   [Harold Jarche on PKM – Leading Learning](https://www.leadinglearning.com/episode-172-personal-knowledge-mastery-harold-jarche/): discussion on PKM as a mindset and lifelong learning habit.
+-   [Harold Jarche on PKM](https://www.leadinglearning.com/episode-172-personal-knowledge-mastery-harold-jarche/): discussion on PKM as a mindset and lifelong learning habit.
 
 ### Ready-to-Use Vaults & Templates
 
