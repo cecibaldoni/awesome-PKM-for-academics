@@ -7,8 +7,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list format.
 
 [![](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-------------------------------------------------------------------------
-
 ## Why This List?
 
 While many PKM resources exist, few speak directly to the needs of: 
@@ -17,8 +15,6 @@ While many PKM resources exist, few speak directly to the needs of:
 - Academics managing teaching, research, and grant writing
 
 This collection focuses on **open-source**, **reproducible**, and **academic-friendly** PKM systems.
-
-------------------------------------------------------------------------
 
 ## Categories
 
@@ -69,8 +65,6 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 -   [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management): broader than PKM, this list includes team knowledge tools and semantic technologies.
 -   [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking): a curated list of note-taking tools and apps, many of which support academic PKM.
 -   [Awesome Logseq Resources](https://github.com/logseq/awesome-logseq): a curated list of Logseq plugins and templates to extend your academic PKM setup.
-
-------------------------------------------------------------------------
 
 ## Contributing
 
