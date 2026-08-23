@@ -64,15 +64,18 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 -   [Obsidian Scientific Research Vault](https://github.com/LalieA/obsidian-scientific-research-vault): research vault built for academic workflows, including lit reviews and data collection.
 -   [Obsidian for Academia (Demo)](https://github.com/rlaker/Obsidian-for-Academia): demo vault showing how to use Obsidian for course planning, paper writing, and reading tracking.
 -   [Obsidian History Vault](https://github.com/erazlogo/obsidian-history-vault): vault for historians working with archival data, sources, and timelines.
--   [Student Starter Vault (Obsidian)](https://github.com/shawngraham/obsidian-student-starter-vault): vault for student research and note-taking tasks.
+-   [Simple Vault (Obsidian)](https://github.com/shawngraham/simple-vault): newcomer-friendly student vault with guidance for adding Zotero citations, successor to the author's earlier starter vault.
 -   [PKM Workshop for PhD Students](https://github.com/cecibaldoni/PKM-workshop): slides and beginner-friendly vault for Obsidian and folder for Logseq; target audience: PhD students.
 -   [Academic Obsidian](https://github.com/HEmile/academic-obsidian): a battle-tested Obsidian template refined over years of academic research use.
 -   [Obsidian Research Vault Template](https://github.com/hoonsubin/obsidian-research-vault-template): an opinionated vault template focused on academic research and Zotero integration.
 -   [Obsidian Vault Template for Graduate Students](https://github.com/sheldonxxd/obsidian_vault_template_for_graduate_student): a simple, widely-starred academic vault template for graduate students.
 
+### Tools & Plugins
+
+-   [TopicSplit](https://andrwspt.github.io/topicsplit/): free, offline, client-side tool that splits pasted text into topic segments by meaning, useful for turning long articles or transcripts into atomic notes for Obsidian, Logseq, or other PKM tools.
+
 ### More Awesome Lists
 
--   [knowfox/awesome-pkm](https://github.com/knowfox/awesome-pkm): foundational list of PKM tools, workflows, and methods.
 -   [doanhthong/awesome-pkm](https://github.com/doanhthong/awesome-pkm): curated list of PKM tools across writing, reading, and thinking workflows.
 -   [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management): broader than PKM, this list includes team knowledge tools and semantic technologies.
 -   [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking): a curated list of note-taking tools and apps, many of which support academic PKM.
