@@ -69,6 +69,7 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 -   [Academic Obsidian](https://github.com/HEmile/academic-obsidian): a battle-tested Obsidian template refined over years of academic research use.
 -   [Obsidian Research Vault Template](https://github.com/hoonsubin/obsidian-research-vault-template): an opinionated vault template focused on academic research and Zotero integration.
 -   [Obsidian Vault Template for Graduate Students](https://github.com/sheldonxxd/obsidian_vault_template_for_graduate_student): a simple, widely-starred academic vault template for graduate students.
+-   [Second Brain Starter](https://github.com/secondbrainstarter/second-brain-starter): free bilingual (EN/DE) starter vault for a plain-Markdown second brain; three folders with an inbox rule, six note templates, and daily-note plus 17-minute weekly-review routines. Website with live demo: https://secondbrainstarter.github.io/
 
 ### Tools & Plugins
 
