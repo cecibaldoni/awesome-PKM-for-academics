@@ -72,6 +72,7 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 
 ### Tools & Plugins
 
+-   [Omphalis](https://omphalis.ai): workspace to finish dense articles, PDFs, podcasts and video you saved; mark passages and keep notes beside the source.
 -   [TopicSplit](https://andrwspt.github.io/topicsplit/): free, offline, client-side tool that splits pasted text into topic segments by meaning, useful for turning long articles or transcripts into atomic notes for Obsidian, Logseq, or other PKM tools.
 
 ### More Awesome Lists
