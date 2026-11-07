@@ -72,6 +72,7 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 
 ### Tools & Plugins
 
+-   [Knovum](https://github.com/madebyzan/knovum): open-source, local-first desktop workspace with an infinite spatial canvas, bidirectional JSON Canvas interoperability, structured notes, and on-device Whisper transcription for lecture and qualitative interview research.
 -   [TopicSplit](https://andrwspt.github.io/topicsplit/): free, offline, client-side tool that splits pasted text into topic segments by meaning, useful for turning long articles or transcripts into atomic notes for Obsidian, Logseq, or other PKM tools.
 
 ### More Awesome Lists
