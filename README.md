@@ -72,6 +72,7 @@ This collection focuses on **open-source**, **reproducible**, and **academic-fri
 
 ### Tools & Plugins
 
+-   [3DMindNet](https://3dmindnet.com/): web tool that shows notes and their links as a navigable 3D graph, handy for mapping literature or research topics; optional Notion sync, free during early access.
 -   [TopicSplit](https://andrwspt.github.io/topicsplit/): free, offline, client-side tool that splits pasted text into topic segments by meaning, useful for turning long articles or transcripts into atomic notes for Obsidian, Logseq, or other PKM tools.
 
 ### More Awesome Lists
